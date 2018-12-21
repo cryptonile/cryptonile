@@ -1,11 +1,14 @@
 {
     "initialState": {},
     "queryHandlers":{},
+    "peers":[
+        "c849232f49ea3ed6530fc7cb54dc1193b0a080c3@tcp://138.197.183.212"
+    ],
     "validators":[
         {
             "pubKey": {
                 "type": "ed25519",
-                "data": ""
+                "data": "tfsBXvpY/1ktEuw3Xt2aiL3A4dWIMHURhpgh/ay6HI0="
             },
             "power": { 
                 "low": 1, 
