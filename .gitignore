@@ -3,3 +3,4 @@ data/
 config/priv_validator.json
 config/node_key.json
 config/addrbook.json
+config/write-file*
