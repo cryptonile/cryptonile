@@ -1,0 +1,25 @@
+{
+    "initialState": {},
+    "queryHandlers":{},
+    "validators":[
+        {
+            "pubKey": {
+                "type": "ed25519",
+                "data": "3BCFSCXjngvGgs/b5c9tV2Nw+uPe4H1jbVWD5Il+XWk="
+            },
+            "power": { 
+                "low": 1, 
+                "high": 0, 
+                "unsigned": false 
+            }
+        }
+    ],
+    "verbose": true,
+    "blockSize":1000000,
+    "txSize": 100000,
+    "rpcPort":26657,
+    "abciPort":26658,
+    "p2pPort":44446,
+    "chainId":25,
+    "validatorPubKeyTypes":["ed25519", "secp256k1"]
+}

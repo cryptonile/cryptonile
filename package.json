@@ -1,0 +1,23 @@
+{
+  "name": "cryptonile",
+  "version": "0.1.0",
+  "description": "Cryptonile Blockchain Node",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptonile/cryptonile.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptonile/cryptonile/issues"
+  },
+  "homepage": "https://github.com/cryptonile/cryptonile#readme",
+  "dependencies": {
+    "kameleon": "file:../../Lamarkaz/Kameleon",
+    "kameleon-currency": "^0.1.0"
+  }
+}
