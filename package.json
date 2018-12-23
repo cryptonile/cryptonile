@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cryptonile/cryptonile#readme",
   "dependencies": {
-    "kameleon": "file:../../Lamarkaz/Kameleon",
+    "kameleon": "^0.1.13",
     "kameleon-currency": "^0.1.0"
   }
 }
