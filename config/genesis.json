@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2018-12-21T10:13:31.083510513Z",
-  "chain_id": "test-chain-XJaYNz",
+  "genesis_time": "2018-12-21T14:49:17.615125266Z",
+  "chain_id": "cryptonile-testnet",
   "consensus_params": {
     "block_size_params": {
       "max_bytes": "22020096",
@@ -12,13 +12,13 @@
   },
   "validators": [
     {
-      "address": "0E7A89852ED26159A226C2246D97C81BCED90DF1",
+      "address": "3D3463234044A1DD1715C49778A54F62FE1D063D",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3BCFSCXjngvGgs/b5c9tV2Nw+uPe4H1jbVWD5Il+XWk="
+        "value": "17h1nreoOicdD4rUgU5vXaWYs7lAwgUNZ/h5oN+QWdI="
       },
       "power": "10",
-      "name": ""
+      "name": "cryptonile"
     }
   ],
   "app_hash": ""

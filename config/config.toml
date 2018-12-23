@@ -8,7 +8,7 @@
 proxy_app = "tcp://127.0.0.1:26658"
 
 # A custom human readable name for this node
-moniker = "N"
+moniker = "cryptonile"
 
 # If this node is many blocks behind the tip of the chain, FastSync
 # allows them to catchup quickly by downloading blocks in parallel
@@ -204,7 +204,7 @@ index_tags = ""
 # Note this may be not desirable (see the comment above). IndexTags has a
 # precedence over IndexAllTags (i.e. when given both, IndexTags will be
 # indexed).
-index_all_tags = true
+index_all_tags = false
 
 ##### instrumentation configuration options #####
 [instrumentation]
